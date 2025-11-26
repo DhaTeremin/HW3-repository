@@ -25,7 +25,7 @@ Then it is mandatory to start the bridge and allow the communication between ros
 ````
 ./DDS_run.sh
 ````
-The last step is to open QGround.
+The last step is to open QGroundControl.
 ````
 ./QGroundControl-x86_64.AppImage
 ````
